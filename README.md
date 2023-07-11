@@ -1,5 +1,5 @@
 
-# FileLock: A Simple File Encryption and Decryption Tool designed by Rena D Rocha
+# FileLock: A Simple File Encryption and Decryption Tool designed by Renan D Rocha
 
 
 FileLock is a straightforward and easy-to-use tool for file encryption and decryption. 
