@@ -38,13 +38,13 @@ Always remember to handle your original unencrypted files as needed to maintain 
 ## Usage for filelock_modified2v.py
 
 Encrypt a file:
-
+```
 python filelock_modified_salt_file.py encrypt filename password salt_filename
-
+```
 Decrypt a file:
-
+```
 python filelock_modified_salt_file.py decrypt filename.encrypted password salt_filename
-
+```
 Replace filename with the name of the file to be encrypted or decrypted, password with the password to use for encryption or decryption, and salt_filename with the name of the file where the salt will be saved during encryption or read from during decryption.
 
 Please remember to handle the original unencrypted file and the salt file as needed to maintain your data security.
